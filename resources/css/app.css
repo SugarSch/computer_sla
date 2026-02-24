@@ -1,0 +1,9 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+:root {
+  --bs-body-font-family: "Sarabun", sans-serif;
+}
+
+.text-right {
+  text-align: right;
+}
