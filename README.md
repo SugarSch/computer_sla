@@ -5,6 +5,7 @@ This Computer Repair Request System web application was developed for educationa
 - Laravel (Backend Framework)
 - React (Frontend Library)
 - Inertia.js (Bridge between Backend and Frontend)
+
 ⚠️ This project is created for educational purposes only. Not intended for commercial use.
 
 ✨ Features
